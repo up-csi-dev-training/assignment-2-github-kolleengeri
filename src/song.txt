@@ -1,20 +1,31 @@
-Maliit na Marupok na Puso by Victor Lundberg
+#"Maliit na Marupok na Puso" 
+##by Victor Lundberg
+
+###[Verse 1]
 In the corner of the crowded room
 Your eyes meet mine
 Conversations fill the air
 Lost in space and time
+
+###[Chorus]
 I don't ask for your name
 It's already carved in the air, mm-mm
 I won't light the flame
 It's already burning when you are near
+
+###[Verse 2]
 Taking steps to keep my distance
 I don't wanna fall
 Am I strong enough to guide my heart
 Away from it all?
+
+###[Chorus]
 I won't call your name
 It's already carved in the air, mm-mm
 I won't light the flame
 It's already burning when you are near
+
+###[Bridge]
 Do we all so slowly lose control?
 As emotions overflow
 Falling into the unknown
@@ -22,6 +33,10 @@ Or do we all guard our small, fragile hearts?
 As we're softly breaking apart
 Afraid to give in to the start
 And open up our hearts
+
+###[Instrumental Break]
+
+###[Outro]
 Do we all so slowly lose control?
 As emotions overflow
 Falling into the unknown
